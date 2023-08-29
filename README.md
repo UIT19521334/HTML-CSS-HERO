@@ -7,8 +7,7 @@
 - [Giấy phép](#giấy-phép)
 ## Login
 - Login UI phần 1
-
-  <img src="https://user-images.githubusercontent.com/67258104/173554482-903ae6f9-d01d-446c-9372-49592b7bf62c.png" alt="..." width="700" />
+  <img src="https://github.com/UIT19521334/HTML-CSS-HERO/assets/67258104/eb93050d-0146-4330-a04b-ea9f6d85ef4c.png" alt="..." width="700" />
 
 
 ## Tài liệu tham khảo
